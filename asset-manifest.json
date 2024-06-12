@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-website/static/css/main.1b666c70.css",
+    "main.js": "/portfolio-react-website/static/js/main.8fc2eb25.js",
+    "static/media/Photo.jpg": "/portfolio-react-website/static/media/Photo.b85d2d03a282a84dafc6.jpg",
+    "static/media/close-menu.svg": "/portfolio-react-website/static/media/close-menu.b78919cb711589f5c99e.svg",
+    "index.html": "/portfolio-react-website/index.html",
+    "static/media/burger-menu-btn.svg": "/portfolio-react-website/static/media/burger-menu-btn.04128a212f14a719372f.svg",
+    "main.1b666c70.css.map": "/portfolio-react-website/static/css/main.1b666c70.css.map",
+    "main.8fc2eb25.js.map": "/portfolio-react-website/static/js/main.8fc2eb25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b666c70.css",
+    "static/js/main.8fc2eb25.js"
+  ]
+}
