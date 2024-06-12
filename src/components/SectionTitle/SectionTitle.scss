@@ -1,0 +1,43 @@
+@import '../../scss/mixins.scss';
+@import '../../scss/variables.scss';
+
+.section__title {
+  background-color: #000;
+  position: sticky;
+  z-index: 10;
+  top: 78px;
+  font-size: 40px;
+  margin: 0;
+  &-circle {
+    margin-right: 5px;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: $lightGreen;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .section__title {
+    font-size: 36px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .section__title {
+    font-size: 32px;
+    padding: 10px 0;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .section__title {
+    top: 40px;
+    font-size: 28px;
+    &-circle {
+      width: 7px;
+      height: 7px;
+    }
+  }
+}
